@@ -1,5 +1,5 @@
 # RedisExampleKeyValue
-	       This is a command code, for using into PowerShell in docker
+	         This is a command code, for using into PowerShell in docker
             for created a contaner in docker using:
             docker run --name local-redis -p 6379:6379 -d redis | obs: if doesn't exists redis in your contaner, itself docker will do the download.
             docker ps | For check if created the redis local
